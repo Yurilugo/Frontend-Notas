@@ -18,5 +18,8 @@
   "homepage": "https://github.com/gabitodev/todo-app#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "axios": "^1.1.3"
   }
 }
